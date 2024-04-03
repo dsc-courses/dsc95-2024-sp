@@ -15,7 +15,7 @@ nav_order: 1
 <span style="display:block; margin-top:-10px;"></span>
 
 {: .mb-3 }
-**Class**: Mondays, 10-10:50AM, Center Hall 201
+**Class**: Wednesdays, 2-2:50PM, [Warren Lecture Hall](https://maps.app.goo.gl/ag5NQ3uhegvQBEN86) 2207
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 ---
@@ -30,23 +30,127 @@ nav_order: 1
 
 ## Schedule
 
-_**Note**: This is Suraj's first time leading DSC 95, and this is a discussion-heavy course. As such, the schedule below is likely to change quite a bit throughout the quarter._
+_**Note**: This is a discussion-heavy course, and it's hard to predict how long some discussions may take. As such, the schedule below is likely to change quite a bit throughout the quarter._
 
-Homeworks can be found at the bottom of the corresponding week's webpage.
+Deadlines will appear with a ✅, and all deadlines are subject to change.
 
-| Week | Class | Discussion Topic | Homework | Project |
+<table markdown="1">
+    <colgroup>
+        <col style="width: 2%" />
+        <col style="width: 35%" />
+        <col style="width: 63%" />
+        <col style="width: 63%" />
+        <col style="width: 63%" />
+    </colgroup>
+    <thead class="header">
+        <tr>
+            <th>Week</th>
+            <th>Class</th>
+            <th>Action Items</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1<br><small>April 3rd</small></td>
+            <td>
+            <a href="https://docs.google.com/presentation/d/1FOISQlzuok6CbrScyqAJNtgdHLiZfUBpK0gfYiYIUK8/edit#slide=id.g229be4e47bd_0_73">Introduction, Responsibilities, Imposter Syndrome</a>
+            </td>
+            <td>
+            Read:
+            <ul>
+                <li><a href="https://docs.google.com/document/d/15roVBW_Tj3o-qvzt77lvcDmdly0WaZ6GRP_bRh61qAE/edit">So You Think You Can TA by John Kohler</a>. This guide was written with TAs who run discussion sections in mind, but many of the tips (e.g. following up with students when you don't know something, bending down or sitting in a chair to maintain eye-level contact with them) are relevant in office hours too.</li>
+                <li><a href="https://cs375.github.io/su22/resources/talc.pdf">The Tao of TALC</a>. This guide describes how to effectively run large-scale office hours that are not unlike our DSC office hours, especially when things get busy. Not everything will directly apply, especially in more theoretical courses, but it's still useful to read.</li>
+            </ul>
+            <br>
+            Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScYerwK_yed3SGFyAjhD6XIwdZnqsfFoSUr1exHWCjjcjIGtg/viewform">Welcome Survey</a> by <b><span style="color: green">✅ Tuesday, April 9th</span></b>.
+            </td>
+        </tr>
+        <tr>
+            <td>2<br><small>April 10th</small></td>
+            <td>
+            Professionalism and Office Hours
+            </td>
+            <td>Watch <a href="https://www.youtube.com/watch?v=sIv9rz2NTUk">Learning Styles Don't Exist</a>.
+            <br><br>
+            Find an experienced tutor in the class you are tutoring for and “shadow” them (i.e. follow them around and observe them) during their office hours for at least 30 minutes. Preferably choose a time that will be busier, e.g. the day that homework is due. Then, answer reflection questions on Gradescope by <b><span style="color: green">✅ Tuesday, April 16th</span></b>.
+            <br><br>
+            Submit at least one question for the experienced tutor panel discussion next week by <b><span style="color: green">✅ Tuesday, April 16th</span></b>. Feel free to ask more than one by submitting the form multiple times.
+            </td>
+        </tr>
+        <tr>
+            <td>3<br><small>April 17th</small></td>
+            <td>
+            Experienced Tutor Panel<br><small>Featuring Benjamin Chen, Muchan Li, Harshi Saha, and more!</small>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4<br><small>April 24th</small></td>
+            <td>
+            Grading
+            </td>
+            <td>Submit the first checkpoint for the Final Project by <b><span style="color: green">✅ Tuesday, April 30th</span></b>.</td>
+        </tr>
+        <tr>
+            <td>5<br><small>May 1st</small></td>
+            <td>
+            Reflection
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6<br><small>May 8th</small></td>
+            <td>
+            Academic Integrity<br><small>Featuring Tricia Bertram-Gallant, the director of the AI Office</small>
+            </td>
+            <td>Submit the second checkpoint for the Final Project by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
+        </tr>
+        <tr>
+            <td>7<br><small>May 15th</small></td>
+            <td>
+            Tips and Tricks
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8<br><small>May 22nd</small></td>
+            <td>
+            More Scenarios
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9<br><small>May 29th</small></td>
+            <td>
+            TBD
+            </td>
+            <td>Submit the Final Project by <b><span style="color: green">✅ Tuesday, June 4th</span></b>.</td>
+        </tr>
+        <tr>
+            <td>10<br><small>June 5th</small></td>
+            <td>
+            TBD
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- | Week | Class | Discussion Topic | Homework | Project |
 | --- | --- | --- | --- | --- |
-| 1 | Monday, April 3rd | [Introduction, Responsibilities, Imposter Syndrome](weeks/01) | Homework 1 (due Sunday, April 9th) | |
-| 2 | Monday, April 10th | [Structural Factors, Growth vs. Fixed Mindset](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
-| 3 | Monday, April 17th | [Office Hours, Professionalism, Grading](weeks/03) | Homework 3 (due Sunday, April 23rd) |  |
-| 4 | Monday, April 24th | Experienced Tutor Panel | | |
-| 5 | Monday, May 1st | [Productivity Tips, Final Project Brainstorming, Grading](weeks/05) | Homework 4 (due Sunday, May 7th) | Instructions released |
-| 6 | Monday, May 8th |  [Reflection](weeks/06) | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
-| 7 | Monday, May 15th | [Project Feedback](weeks/07) | |
-| 8 | Monday, May 22nd | [Writing, Academic Integrity, Learning Theory](weeks/08) | | Second draft due Sunday, May 28th |
-| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Sunday, June 4th at 12PM |
-| 10 | Monday, June 5th | [Learning Theory, Conclusion](weeks/10) | | [CAPEs](https://cape.ucsd.edu) + [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScJcBYOsIvoRxHDqLCXolS1GmKvag-UVksNMSi8b_nh0oEZxA/viewform) due Saturday, June 10th at 8AM | 
+| 1 | Wednesday, April 3rd | Introduction, Responsibilities, Imposter Syndrome | Homework 1 (due Sunday, April 7th) | |
+| 2 | Wednesday, April 10th | [Structural Factors, Growth vs. Fixed Mindset](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
+| 3 | Wednesday, April 17th | [Office Hours, Professionalism, Grading](weeks/03) | Homework 3 (due Sunday, April 23rd) |  |
+| 4 | Wednesday, April 24th | Experienced Tutor Panel | | |
+| 5 | Wednesday, May 1st | [Productivity Tips, Final Project Brainstorming, Grading](weeks/05) | Homework 4 (due Sunday, May 7th) | Instructions released |
+| 6 | Wednesday, May 8th |  [Reflection](weeks/06) | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
+| 7 | Wednesday, May 15th | [Project Feedback](weeks/07) | |
+| 8 | Wednesday, May 22nd | [Writing, Academic Integrity, Learning Theory](weeks/08) | | Second draft due Sunday, May 28th |
+| 9 | Wednesday, May 29th |  | | Final Project due Sunday, June 4th at 12PM |
+| 10 | Wednesday, June 5th | [Learning Theory, Conclusion](weeks/10) | | [CAPEs](https://cape.ucsd.edu) + [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScJcBYOsIvoRxHDqLCXolS1GmKvag-UVksNMSi8b_nh0oEZxA/viewform) due Saturday, June 10th at 8AM |  -->
 
+For discussion, we will use Slack, and you will submit any assignments (that aren't Google Forms) to Gradescope. Let Suraj know if you can't access one of those platforms.
 
 ---
 
@@ -72,24 +176,22 @@ _Remember that [dsc-courses.github.io](https://dsc-courses.github.io) contains l
 
 DSC 95 is graded P/NP. There are three things you need to do to pass:
 
-1. **Attend and participate** in all DSC 95 class sessions (Mondays at 10AM in Center Hall 201).
+1. **Attend and participate** in all DSC 95 class sessions (Wednesdays at 2PM in Warren Lecture Hall 2207).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
-    - In class, you will be expected to complete in-class worksheets; these are graded on the following scale:
-        - 2: Thoughtful and complete
-        - 1: Lack of effort
-        - 0: Not submitted
     - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Suraj know in advance on Slack.
         - Note that lecture attendance for the class you're tutoring for is _not_ a requirement of DSC 95; your instructor may still require you to attend as part of your paid tutor duties.
-    - You can miss at most 4 participation points (i.e. 2 DSC 95 class sessions) and still pass.
-1. **Complete weekly readings and homework assignments**, usually due on Sundays at 11:59PM.
+1. **Complete weekly readings and homework assignments**, usually due on Tuesdays at 11:59PM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
-    - Responses are graded on the same 2/1/0 scale that in-class worksheets are graded on.
-    - Since the readings and homeworks are short (~1 hour per week), there are no slip days or extensions. We need your responses in no later than Sunday night so that we can plan the next day's class session. 
+    - Responses are graded on a 2/1/0 scale:
+        - 2: Thoughtful and complete.
+        - 1: Lack of effort.
+        - 0: Not submitted.
+    - Since the readings and homeworks are short (~1 hour per week), there are no slip days or extensions. We need your responses in no later than Tuesday night so that we can plan the next day's class session. 
     - You can miss at most 1 weekly assignment and still pass.
 1. **Complete a satisfactory Final Project**.
-    - The Final Project in DSC 95 is an open-ended assignment where you'll produce some sort of educational material (e.g. a video, diagram, or website) that will benefit students in the course you're tutoring.
+    - The Final Project in DSC 95 involves creating a video that will benefit students in the course you're tutoring.
     - Not only will your Final Project be given to your class' instructor, but it'll also be part of the "DSC 95 Project Showcase" for future DSC 95 students to see!
-    - More details to come.
+    - There will be multiple checkpoints to help you plan. More details to come.
 
 <!-- ### Academic Integrity
 
@@ -126,10 +228,6 @@ On a related note, as a tutor, you should only help students in your course thro
 
 ## Acknowledgements
 
-DSC 95 was designed and run by Marina Langlois for many quarters, so much of what you see here was originally developed by her. When designing this quarter's offering of DSC 95, I also referred to CSE 95 taught by Mia Minnes and [CS 375](https://cs375.github.io/su22/) taught by Victor Huang at Berkeley.
+DSC 95 was designed and run by Marina Langlois for many quarters, so much of what you see here was originally developed by her. When designing this quarter's offering of DSC 95, I also referred to CSE 95 taught by Mia Minnes and [CS 375](https://cs375.github.io/su22/) taught by Victor Huang at Berkeley, as well as the improvements made by both Colin Jemmott (Winter 2024) and Marina Langlois (Fall 2023).
 
 ---
-
-Sweaters coming soon! 👀
-
-<center><img src="assets/images/panda-logo.png" width="20%"></center>
