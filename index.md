@@ -80,7 +80,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>3<br><small>April 17th</small></td>
             <td>
-            Experienced Tutor Panel<br><small>Featuring Benjamin Chen, Muchan Li, Harshi Saha, and more!</small>
+            Experienced Tutor Panel<br><small>Featuring Benjamin Chen, Muchan Li, Harshi Saha, Anastasiya Markova, and Jessica Song</small>
             </td>
             <td></td>
         </tr>
