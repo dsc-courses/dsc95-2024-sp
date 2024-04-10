@@ -68,13 +68,13 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>2<br><small>April 10th</small></td>
             <td>
-            Professionalism and Office Hours
+            <a href="https://docs.google.com/presentation/d/1PkpQJJmDylQI-kv8WT6MgU0i0l_Get-OpuccbqUWRSg/edit?usp=sharing">Professionalism and Office Hours</a>
             </td>
             <td>Watch <a href="https://www.youtube.com/watch?v=sIv9rz2NTUk">Learning Styles Don't Exist</a>.
             <br><br>
             Find an experienced tutor in the class you are tutoring for and “shadow” them (i.e. follow them around and observe them) during their office hours for at least 30 minutes. Preferably choose a time that will be busier, e.g. the day that homework is due. Then, answer reflection questions on <a href="https://www.gradescope.com/courses/759123/assignments/4342181">Gradescope</a> by <b><span style="color: green">✅ Tuesday, April 16th</span></b>.
             <br><br>
-            Submit at least one question at this Google Form for the experienced tutor panel discussion next week by <b><span style="color: green">✅ Tuesday, April 16th</span></b>. Feel free to ask more than one by submitting the form multiple times.
+            Submit at least one question at <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjvrdoq7v3Xgbfr2BZipXmqPNaLxAxYtcFdF3rY2rWGPgFCw/viewform">this Google Form</a> for the experienced tutor panel discussion next week by <b><span style="color: green">✅ Tuesday, April 16th</span></b>. Feel free to ask more than one by submitting the form multiple times.
             </td>
         </tr>
         <tr>
