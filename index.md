@@ -89,7 +89,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
             <td>
             Grading
             </td>
-            <td>Submit the first checkpoint for the Final Project by <b><span style="color: green">✅ Tuesday, April 30th</span></b>.</td>
+            <td>Read the entire description and complete the <a href="final-project#first-checkpoint-due-tuesday-april-30th">first checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>. Note that this involves scheduling a meeting with your assigned tutor – you can't leave this until the last minute!</td>
         </tr>
         <tr>
             <td>5<br><small>May 1st</small></td>
@@ -103,28 +103,28 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
             <td>
             Academic Integrity<br><small>Featuring Tricia Bertram-Gallant, the director of the AI Office</small>
             </td>
-            <td>Submit the second checkpoint for the Final Project by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
+            <td>Submit the <a href="final-project#second-checkpoint-due-tuesday-may-14th">second checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
         </tr>
         <tr>
             <td>7<br><small>May 15th</small></td>
             <td>
             Tips and Tricks
             </td>
-            <td></td>
+            <td>Submit the <a href="final-project#third-checkpoint-due-tuesday-may-21st">third checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
         </tr>
         <tr>
             <td>8<br><small>May 22nd</small></td>
             <td>
             More Scenarios
             </td>
-            <td></td>
+            <td>While not strictly required, plan to send a draft of your <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> to your assigned tutor this week to get feedback.</td>
         </tr>
         <tr>
             <td>9<br><small>May 29th</small></td>
             <td>
             TBD
             </td>
-            <td>Submit the Final Project by <b><span style="color: green">✅ Tuesday, June 4th</span></b>.</td>
+            <td>Submit the <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> by <b><span style="color: green">✅ Tuesday, June 4th</span></b>.</td>
         </tr>
         <tr>
             <td>10<br><small>June 5th</small></td>
