@@ -87,9 +87,9 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>4<br><small>April 24th</small></td>
             <td>
-            Grading
+            <a href="https://docs.google.com/presentation/d/1g_qDYUOcBmMVuwnWHcG4O6s4YcMlzobSLqMLWta9VWE/edit?usp=sharing">Final Project Brainstorming, Productivity Tips, Grading</a>
             </td>
-            <td>Read the entire description and complete the <a href="final-project#first-checkpoint-due-tuesday-april-30th">first checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>. Note that this involves scheduling a meeting with your assigned tutor – you can't leave this until the last minute!</td>
+            <td><b>New</b>: Read the three readings and complete the sample grading assignment <a href="grading">here</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>.<br><br>Read the entire description and complete the <a href="final-project#first-checkpoint-due-tuesday-april-30th">first checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, April 30th</span></b>. Note that this involves scheduling a meeting with your assigned tutor – you can't leave this until the last minute!</td>
         </tr>
         <tr>
             <td>5<br><small>May 1st</small></td>
@@ -110,7 +110,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
             <td>
             Tips and Tricks
             </td>
-            <td>Submit the <a href="final-project#third-checkpoint-due-tuesday-may-21st">third checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 14th</span></b>.</td>
+            <td>Submit the <a href="final-project#third-checkpoint-due-tuesday-may-21st">third checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 21st</span></b>.</td>
         </tr>
         <tr>
             <td>8<br><small>May 22nd</small></td>
