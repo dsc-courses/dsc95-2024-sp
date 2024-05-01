@@ -94,9 +94,10 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>5<br><small>May 1st</small></td>
             <td>
-            Reflection
+            <a href="https://docs.google.com/presentation/d/1LqQ55uf8b7WOBVsccvRaaC_qLryH84QTVW14dj8S0zE/edit#slide=id.g229be4e47bd_0_73">Growth vs. Fixed Mindset, Scenarios, Reflection
+</a>
             </td>
-            <td></td>
+            <td>Read <a href="https://www.jessestommel.com/why-i-dont-grade/">Why I Don't Grade</a> and <a href="https://cteresources.bc.edu/documentation/learning-objectives/">Learning Objectives</a>.</td>
         </tr>
         <tr>
             <td>6<br><small>May 8th</small></td>
