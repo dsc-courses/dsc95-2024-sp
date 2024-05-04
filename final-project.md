@@ -42,7 +42,7 @@ You might notice that there is some tension between these goals. That is one of
 
 ### Second Checkpoint, due Tuesday, May 14th
 
-By Tuesday, May 7th at 11:59PM, you should:
+By Tuesday, May 14th at 11:59PM, you should:
 
 1. **Read** [this article](https://cteresources.bc.edu/documentation/learning-objectives) on learning objectives.
 1. **Think about** how you may apply the concepts from the article to the class that you are currently tutoring. Try to talk to your class' professor and **discuss** what you come up with if the professor is available. 
@@ -54,7 +54,7 @@ You'll submit your topic and learning goals to Gradescope.
 
 ### Third Checkpoint, due Tuesday, May 21st
 
-By Tuesday, May 14th at 11:59PM, you should **create and submit** a video outline:
+By Tuesday, May 21st at 11:59PM, you should **create and submit** a video outline:
 
 1. This can be a word-for-word **script** of what you want to say or a detailed **outline** of how you want to structure your video. Depending on the length of your video, these should be around 250-1000 words.
 1. Your outline or script should be organized in a manner that **aligns** with the **learning goals and objectives** you created in the second checkpoint!
