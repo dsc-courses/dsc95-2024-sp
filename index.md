@@ -109,7 +109,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>7<br><small>May 15th</small></td>
             <td>
-            Tips and Tricks
+            <a href="https://docs.google.com/presentation/d/1dXzYmIF5DsPhjoKnL2U6Q_axYKRxMANEHFj1els967M/edit?usp=sharing">Project Advice, Reflection, Scenarios</a>
             </td>
             <td>Submit the <a href="final-project#third-checkpoint-due-tuesday-may-21st">third checkpoint for the Final Project</a> by <b><span style="color: green">✅ Tuesday, May 21st</span></b>.</td>
         </tr>
