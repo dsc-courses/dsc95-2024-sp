@@ -116,7 +116,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>8<br><small>May 22nd</small></td>
             <td>
-            More Scenarios
+            <a href="https://docs.google.com/presentation/d/1aprVBJOUnYA5_XFMvgT2yhJjR5qHdtbg388GqzWAZsw/edit?usp=sharing">Project Feedback, Structural Factors</a>
             </td>
             <td>While not strictly required, plan to send a draft of your <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> to your assigned tutor this week to get feedback.</td>
         </tr>
