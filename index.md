@@ -123,7 +123,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>9<br><small>May 29th</small></td>
             <td>
-            TBD
+            <a href="https://docs.google.com/presentation/d/1xkTg3W80dKnrqDjAaTLRA3T_9i-peXYLkBJ0jOO4AMM/edit?usp=sharing">More Structural Factors, Writing</a>
             </td>
             <td>Submit the <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> by <b><span style="color: green">✅ Tuesday, June 4th</span></b>.</td>
         </tr>
