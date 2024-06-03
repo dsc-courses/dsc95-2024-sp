@@ -125,7 +125,7 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
             <td>
             <a href="https://docs.google.com/presentation/d/1xkTg3W80dKnrqDjAaTLRA3T_9i-peXYLkBJ0jOO4AMM/edit?usp=sharing">More Structural Factors, Writing</a>
             </td>
-            <td>Submit the <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> by <b><span style="color: green">✅ Tuesday, June 4th</span></b>.</td>
+            <td>Submit the <a href="final-project#final-submission-due-tuesday-june-4th">Final Project</a> by <b><span style="color: green">✅ Tuesday, June 4th</span></b> to <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScD4Na6WiCNhRaMGFgAtZcia5UEr792cXA6eUDtKPDKDXbFXA/viewform">this Google Form</a></b>.</td>
         </tr>
         <tr>
             <td>10<br><small>June 5th</small></td>

@@ -16,6 +16,8 @@ You will create your video **individually**. You will be assigned a tutor who w
 
 There are three checkpoints, followed by a final deadline.
 
+### Submit your final project to [**this Google Form**](https://docs.google.com/forms/d/e/1FAIpQLScD4Na6WiCNhRaMGFgAtZcia5UEr792cXA6eUDtKPDKDXbFXA/viewform).
+
 ---
 
 1. TOC
@@ -78,6 +80,8 @@ By Tuesday, June 4th at 11:59PM, you should:
    2. **Send a draft of your video to your assigned tutor, ideally by Tuesday, May 28th. They will provide any necessary feedback.**
 3. **Upload** your video to YouTube (it can be unlisted).
 
-You'll submit your video URL to Gradescope.
+You'll submit your video URL to the form below.
 
 **You really should plan to record multiple drafts of your video, and send them to your assigned tutor and/or Suraj for feedback. It takes lots of practice to be able to record high quality vidoes!**
+
+### Submit your final project to [**this Google Form**](https://docs.google.com/forms/d/e/1FAIpQLScD4Na6WiCNhRaMGFgAtZcia5UEr792cXA6eUDtKPDKDXbFXA/viewform).
