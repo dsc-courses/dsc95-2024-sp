@@ -130,9 +130,9 @@ Deadlines will appear with a ✅, and all deadlines are subject to change.
         <tr>
             <td>10<br><small>June 5th</small></td>
             <td>
-            TBD
+            <a href="https://docs.google.com/presentation/d/1YPbn3whtI3t-epK3P7_0AkGOwA6jwA0hdeqQmXtm3x4/edit?usp=sharing">Conclusion</a>
             </td>
-            <td></td>
+            <td>Fill out <a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> + the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwt1TvwWL9T_sqoj8lSp24s1uMmpi_K7vAwqeOEcyK-O_sZg/viewform">End-of-Quarter Survey</a> by Saturday at 8AM.</td>
         </tr>
     </tbody>
 </table>
